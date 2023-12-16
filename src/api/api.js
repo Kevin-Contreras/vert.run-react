@@ -1,5 +1,5 @@
 export let token = "https://www.strava.com/oauth/token"
-export let auth = "https://www.strava.com/oauth/authorize?client_id=118172&redirect_uri=http://localhost:5173/home&response_type=code&scope=read_all,activity:read_all"
+export let auth = "https://www.strava.com/oauth/authorize?client_id=118172&redirect_uri=https://vert-run-react.vercel.app/home&response_type=code&scope=read_all,activity:read_all"
 export let athlete = "https://www.strava.com/api/v3/athlete"
 export let activity = "https://www.strava.com/api/v3/athlete/activities"
 
