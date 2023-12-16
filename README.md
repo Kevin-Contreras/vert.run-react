@@ -1,8 +1,22 @@
-# React + Vite
+# Prueba con ReactJS y Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Sigue estos pasos para inicializar el proyecto.
 
-Currently, two official plugins are available:
+## Pasos para Iniciar el Proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Instalar Node.js y npm
+
+Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes descargarlos desde [el sitio oficial de Node.js](https://nodejs.org/).
+
+### 2. Descargue el proyecto con el comando
+git clone https://github.com/Kevin-Contreras/vert.run-react.git
+
+### 3. Ejecute el siguiente comando para poder instalar todas las dependecias, si esta en linux o macOS se necesitara colocar sudo
+
+npm install
+
+### 4. Para inicializar el proyecto se necesesita el siguiente comando, si esta en linux o macOS se necesitara colocar sudo
+
+npm run dev
+
+
