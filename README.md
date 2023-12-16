@@ -1,22 +1,20 @@
-# Prueba con ReactJS y Redux
+# ReactJS and Redux Test
 
- Sigue estos pasos para inicializar el proyecto.
 
-## Pasos para Iniciar el Proyecto
+Follow these steps to initialize the project.
+## Steps to Start the Project
 
-### 1. Instalar Node.js y npm
+### 1. Install Node.js and npm
 
-Asegúrate de tener Node.js y npm instalados en tu máquina. Puedes descargarlos desde [el sitio oficial de Node.js](https://nodejs.org/).
-
-### 2. Descargue el proyecto con el comando
+Make sure you have Node.js and npm installed on your machine. You can download them from the official Node.js website.
+### 2. Download the project using the following command
 git clone https://github.com/Kevin-Contreras/vert.run-react.git
 
-### 3. Ejecute el siguiente comando para poder instalar todas las dependecias, si esta en linux o macOS se necesitara colocar sudo
+### 3. Run the following command to install all dependencies. If you are on Linux or macOS, you may need to use sudo
 
 npm install
 
-### 4. Para inicializar el proyecto se necesesita el siguiente comando, si esta en linux o macOS se necesitara colocar sudo
-
+### 4. To initialize the project, use the following command. If you are on Linux or macOS, you may need to use sudo
 npm run dev
 
 
